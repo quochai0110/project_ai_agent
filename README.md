@@ -228,6 +228,6 @@ Hệ thống sẽ chạy pipeline sinh bộ 5 bài tập chuẩn chỉnh, tự s
 #### Chế độ 2: Biên soạn Bài đọc chuyên môn (Reading)
 Truyền tên chủ đề chứa từ khóa "bài đọc" hoặc "reading" qua dòng lệnh:
 ```bash
-python -X utf8 main.py "Bài đọc về cấu trúc rẽ nhánh if-else trong Java"
+python -X utf8 main.py "Bài đọc về cấu trúc rẽ nhánh if-else trong python"
 ```
 Hệ thống sẽ nhận diện ý định, sinh bài đọc Storytelling cấu trúc La Mã I-VII và xuất bản tệp Markdown sạch bóng emoji.
